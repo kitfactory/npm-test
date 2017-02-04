@@ -1,0 +1,19 @@
+{
+  "name": "npm-test",
+  "version": "0.0.1",
+  "description": "test of the npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://kitfactory@github.com/kitfactory/npm-test.git"
+  },
+  "author": "kitfactory@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kitfactory/npm-test/issues"
+  },
+  "homepage": "https://github.com/kitfactory/npm-test#readme"
+}
