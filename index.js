@@ -3,7 +3,7 @@ var module = {
     /**
      * 
      */
-    hello = function(){
+    hello: function(){
         console.log("Hello World");
     }
 }
